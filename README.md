@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋,  My name is Arman Agarwal
-## Software Engineer | Full  - Stack Developer.
+## Software Engineer | Full-Stack Developer.
 
 ### This is where I develop and break stuff!!
-##### I am a under graduate student in computer science at the UMASS Amherst and I am open to internship opportunities in Software Engineering starting Fall 2023. I have full stack experience in building large scale applications using Java, C, C++, Firebase. 
+##### I am an undergraduate student in computer science at UMASS Amherst and I am open to internship opportunities in Software Engineering starting in Fall 2023. I have full-stack experience in building large-scale applications using Java, C, C++, and Python.
+##### I have experience building Web applications using JavaScript, HTML, CSS, and frameworks like ReactJS.
+##### I am proficient in database management tools like MySQL and Firebase Firestore.
 ### Connect with me on [LinkedIn](https://linkedin.com/in/armanagarwal/)
 #
 
