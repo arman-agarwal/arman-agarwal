@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## Software Engineer | Full-Stack Developer.
 
 ### This is where I develop and break stuff!!
-##### I am an undergraduate student in computer science at UMASS Amherst and I am open to internship opportunities in Software Engineering starting in Fall 2023. I have full-stack experience in building large-scale applications using Java, C, C++, and Python.
-##### I have experience building Web applications using JavaScript, HTML, CSS, and frameworks like ReactJS.
+##### I am an undergraduate student in computer science at UMASS Amherst and I am open to internship opportunities in Software Engineering. I have full-stack experience in building large-scale applications using Java, C, C++, and Python.
+##### I have experience building Web applications using JavaScript, HTML, CSS, and frameworks like ReactJS, NextJS.
 ##### I am proficient in database management tools like MySQL and Firebase Firestore.
 ### Connect with me on [LinkedIn](https://linkedin.com/in/armanagarwal/)
 #
