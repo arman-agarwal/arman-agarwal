@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ##### I am an undergraduate student in computer science at UMASS Amherst and I am open to internship opportunities in Software Engineering. I have full-stack experience in building large-scale applications using Java, C, C++, and Python.
 ##### I have experience building Web applications using JavaScript, HTML, CSS, and frameworks like ReactJS, NextJS.
 ##### I am proficient in database management tools like MySQL and Firebase Firestore.
-### Connect with me on [LinkedIn](https://linkedin.com/in/armanagarwal/)
+### Connect with me on [LinkedIn](https://linkedin.com/in/armanagarwal/) or visit my [Portfolio](https://arman-agarwal.github.io)
 #
 
 ###
