@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there 👋,  My name is Arman Agarwal
 ## Software Engineer | Full-Stack Developer.
 
-### This is where I develop and break stuff!!
+### This is where I develop and break stuff!! 
 ##### I am an undergraduate student in computer science at UMASS Amherst and I am open to internship opportunities in Software Engineering. I have full-stack experience in building large-scale applications using Java, C, C++, and Python.
 ##### I have experience building Web applications using JavaScript, HTML, CSS, and frameworks like ReactJS, NextJS.
 ##### I am proficient in database management tools like MySQL and Firebase Firestore.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ###
 
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-agarwal&show_icons=true&theme=transparent)
+<!--![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-agarwal&show_icons=true&theme=transparent)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-agarwal&layout=compact)](https://github.com/arman-agarwal/github-readme-stats)
 
