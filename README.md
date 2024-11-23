@@ -18,6 +18,10 @@
 
 <br/>
 
+### Certifications: 
+<a href="https://www.credly.com/badges/025047a3-3b86-4ee8-851f-b7f29d56d1b7/public_url">
+    <img src="https://github.com/arman-agarwal/arman-agarwal/blob/main/aws-certified-cloud-practitioner_arman.png" alt="AWS Certified Cloud Practitioner" width="80">
+</a>
 
 
 ### :hammer_and_wrench: Languages and Tools :  
