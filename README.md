@@ -1,6 +1,6 @@
 <div id="header" align="center"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/></div>
 
-# I'm Arman (Software Engineer | Full-Stack Developer)
+<!-- # I'm Arman (Software Engineer | Full-Stack Developer)
 
 
 ####  Hi there 👋, This is where I develop and break stuff!! 
@@ -50,4 +50,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-agarwal&layout=compact)](https://github.com/arman-agarwal/github-readme-stats)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=arman-agarwal)](https://git.io/streak-stats)-->
-<!--![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-agarwal&show_icons=true&theme=transparent)-->
+<!--![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-agarwal&show_icons=true&theme=transparent)--> -->
